@@ -2,6 +2,7 @@ import { Text, Box, SimpleGrid, VStack, HStack, } from "@chakra-ui/react"
 import Items from "../components/Items"
 
 const Homepage = () => {
+    console.log('hi')
     return (
     <Box 
     h={'100vh'}

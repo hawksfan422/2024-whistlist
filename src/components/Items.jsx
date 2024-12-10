@@ -28,28 +28,28 @@ function Items() {
             price:"$24.99",
             image: item1,
             link:"https://www.amazon.com/dp/B0B3MVH6JB/?coliid=I1O1GCI8FWFX82&colid=34XEYC7ZLUSQ4&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
-            linkimage:'/amazon.jpg',
+            linkimage:'./public/amazon.jpg',
         },
         {
             name:"Quntis Computer Monitor Lamp, Screen Monitor Light Bar",
             price:"$39.99",
             image: item2,
             link:"https://www.amazon.com/dp/B08DKQ3JG1/?coliid=I1W0BLMOKFCUPW&colid=34XEYC7ZLUSQ4&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
-            linkimage:'/amazon.jpg',
+            linkimage:'./public/amazon.jpg',
         },
         {
             name:"Essential Cropped Full-Zip Hoodie",
             price:"$63.99",
             image: item3,
             link:"https://www.abercrombie.com/shop/us/p/essential-cropped-full-zip-hoodie-57732341?faceout=prod&seq=01",
-            linkimage:'/Abercrombie.svg',
+            linkimage:'./public/Abercrombie.svg',
         },
         {
             name: "Automatic Cat Feeders, 3L Timed Cat Dry Food Dispenser",
             price: '$32.99',
             image: item4,
             link: "https://www.amazon.com/dp/B0D3LQNCWW/?coliid=I2ZOMND5NV3OHY&colid=34XEYC7ZLUSQ4&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
-            linkimage:'/amazon.jpg'
+            linkimage:'./public/amazon.jpg'
         }
 
     ]
