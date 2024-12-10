@@ -5,6 +5,11 @@ import item1 from '../assets/item1.png'
 import item2 from '../assets/item2.png'
 import item3 from '../assets/item3.png'
 import item4 from '../assets/item4.png'
+import item5 from '../assets/item5.png'
+import item6 from '../assets/item6.png'
+
+
+
 
 import ItemBox from './ItemBox';
 
@@ -48,7 +53,23 @@ function Items() {
             image: item4,
             link: "https://www.amazon.com/dp/B0D3LQNCWW/?coliid=I2ZOMND5NV3OHY&colid=34XEYC7ZLUSQ4&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
             linkimage:"/2024-wishlist/amazon.jpg"
-        }
+        },
+
+        {
+            name: "WWE Entrance Greats Jeff Hardy Action Figure",
+            price: '$29.99',
+            image: item5,
+            link: "https://www.amazon.com/dp/B076FLF7L9/?coliid=I16Y0IQ4E7Z60G&colid=34XEYC7ZLUSQ4&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+            linkimage:"/2024-wishlist/amazon.jpg"
+        },
+
+        {
+            name: "MOSISO Laptop Sleeve 13-13.3 inch Notebook,",
+            price: '$14.39',
+            image: item6,
+            link: "https://www.amazon.com/MOSISO-Repellent-Compatible-13-13-3-MacBook/dp/B01A6EO0N2/ref=sr_1_2_sspa?crid=3MOMC8TZ678SQ&dib=eyJ2IjoiMSJ9.yXRJ6CHYLaOuZSi9h8g46RH7nIqXq_KFdMATppSIZvZg0bNYKroQQ1_jvu6bz6dP3LgXWqwOKYkm9eDul4Hj84jSPr-Gm-6OoXHiMCtb9PuJHaRG92Cn7mR1D8_Hzq38vPm8DYbG2CD4NYRo1_xwwS6NlpWAikebSZ5eXjaoRxbUbIYqAP5g9pZ-jz-kVQVgZIFl618bvMXTOM3udHnlQ3oJPb1rHd8BGRYNJX47O28.p0m0rBnVyWvQmRvpoCT9z_1havK1T3MTJ16Ok-MbqBM&dib_tag=se&keywords=13%2Binch%2Bmacbook%2Bair%2Bsleeve&qid=1733807770&sprefix=13%2Binch%2Bmacbook%2Bair%2B%2Caps%2C149&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+            linkimage:"/2024-wishlist/amazon.jpg"
+        },
 
     ]
 
