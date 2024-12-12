@@ -1,7 +1,9 @@
-Fun little side project to showcase my christmas wishlist for 2024
+# My personal 2024 Christmas Wishlist
 
-Using react, chakra ui, and javascript
+Fun little side project to showcase my christmas wishlist for 2024 in a fun way
 
-Deployed using GH pages:
+Using react, chakra ui, javascript, and GitHub pages
+
+### Deployed using GH pages:
 
 https://hawksfan422.github.io/2024-wishlist/
