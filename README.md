@@ -1,4 +1,4 @@
-# My personal 2024 Christmas Wishlist
+# My Personal 2024 Christmas Wishlist
 
 Little side project to showcase my christmas wishlist for 2024 in a fun way
 
