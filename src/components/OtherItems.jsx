@@ -6,6 +6,7 @@ import item2 from '../assets/other/item2.png';
 import item3 from '../assets/other/item3.png';
 import item4 from '../assets/other/item4.png';
 import item5 from '../assets/other/item5.png';
+import item6 from '../assets/other/item6.png';
 
 import ItemBox from './ItemBox';
 
@@ -30,7 +31,7 @@ function Items() {
             linkimage:"/2024-wishlist/amazon.jpg",
         },
         {
-            name:"Eva America Castañeda Gil",
+            name:"Eva",
             price:"$5.99",
             image: item2,
             link:"https://www.pandaexpress.com/",
@@ -56,6 +57,13 @@ function Items() {
             image: item5,
             link:"https://www.amazon.com/dp/B07MFZY2F2/?coliid=I264DQX52VU46S&colid=2UTXBNXPLBANG&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
             linkimage:"/2024-wishlist/amazon.jpg",
+        },
+        {
+            name:"Baggy Open-Hem Sweatpant",
+            price:"$55.99",
+            image: item6,
+            link:"https://www.abercrombie.com/shop/us/p/baggy-open-hem-sweatpant-57520356?faceout=model&seq=01",
+            linkimage:"/2024-wishlist/Abercrombie.svg",
         },
 
 
