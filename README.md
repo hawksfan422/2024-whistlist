@@ -1,8 +1,9 @@
-# React + Vite
+# My Personal 2024 Christmas Wishlist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Little side project to showcase my christmas wishlist for 2024 in a fun way
 
-Currently, two official plugins are available:
+Using react, chakra ui, javascript, and GitHub pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Deployed using GH pages:
+
+https://hawksfan422.github.io/2024-wishlist/
