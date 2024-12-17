@@ -1,7 +1,7 @@
 import { Text, Box, SimpleGrid, VStack, HStack, } from "@chakra-ui/react"
-import Items from "../components/Items"
+import Items from "../components/OtherItems"
 
-const Homepage = () => {
+const OtherList = () => {
     return (
     <Box 
     h={'100vh'}
@@ -18,18 +18,19 @@ const Homepage = () => {
         > 
             <Text>Steven's </Text>
             <Text 
-            bgGradient={'linear(to-r, blue.200, blue.500)'}
+            bgGradient={'linear(to-r, purple.200, purple.500)'}
             bgClip={'text'}
-            >AWESOME </Text>
+            >SECRET </Text>
             <Text>Wishlist</Text>
+            <Text fontSize={'xx-small'}>for eva only</Text>
 
         </HStack>
         <VStack margin={5}>
-            <Items/>
+            <Items />
         </VStack>
         
     </Box>
     )
 };
 
-export default Homepage
+export default OtherList

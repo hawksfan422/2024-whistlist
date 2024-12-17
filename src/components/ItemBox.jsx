@@ -1,10 +1,10 @@
 import { Box, Text, Center, Collapse, VStack, Link, Image} from "@chakra-ui/react"
 
 
-function ItemBox({ name, price, image, link, linkimage, isOpen, toggleCollapse }) {
+function ItemBox({ name, price, image, link, linkimage, isOpen, toggleCollapse, color }) {
 
     const boxStyle = {
-        bg: ('blue.100'),
+        bg: color,
         p: 4,
         borderRadius:  "md", 
         borderColor: ('black'),

@@ -75,6 +75,7 @@ function Items() {
 
     return (
         <SimpleGrid
+
             columns={{
                 base: 1, // 1 column on small screens
                 md: 2,
@@ -88,6 +89,7 @@ function Items() {
             {/* ITEM 1 */}
             {items.map((item, index) => (
                 <ItemBox
+                color={'blue.100'}
                 key={index}
                 name={item.name}
                 price={item.price}
