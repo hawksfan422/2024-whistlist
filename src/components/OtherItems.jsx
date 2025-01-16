@@ -31,20 +31,6 @@ function Items() {
             linkimage:"/2024-wishlist/amazon.jpg",
         },
         {
-            name:"Eva",
-            price:"$5.99",
-            image: item2,
-            link:"https://www.pandaexpress.com/",
-            linkimage:"/2024-wishlist/panda.png",
-        },
-        {
-            name:"Utopia Bedding All Season Down Alternative",
-            price:"$22.49",
-            image: item3,
-            link:"https://www.amazon.com/dp/B09WRM2PVM/?coliid=IPKIH3MSDC2J1&colid=CCX8ZDWBCLMO&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
-            linkimage:"/2024-wishlist/amazon.jpg",
-        },
-        {
             name:"Pokémon Cubone",
             price:"$???",
             image: item4,
