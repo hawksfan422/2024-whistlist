@@ -6,4 +6,4 @@ Using react, chakra ui, javascript, and GitHub pages
 
 ### Deployed using GH pages:
 
-https://hawksfan422.github.io/2024-wishlist/
+https://sacostapliego.github.io/2024-wishlist/
